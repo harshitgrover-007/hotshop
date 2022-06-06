@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "Cool Jacket",
+    "category": "Men",
+    "price": "₹299",
+    "image": "https://i.ibb.co/3sMHFMh/125978-removebg-preview.png"
+  },
+  {
+    "id": 2,
+    "name": "Belt",
+    "category": "Men",
+    "price": "₹159",
+    "image": "https://i.ibb.co/fnggYDx/1473915722-xl-th-crossbow-xl-brown-tommy-hilfiger-belt-th-cros03xl-400x400-imaebmzcpgpudk62-700x893.png"
+  },
+  {
+    "id": 3,
+    "name": "Slippers",
+    "category": "Men",
+    "price": "₹389",
+    "image": "https://i.ibb.co/PgPNXhL/46bc2873-f00f-42fc-a578-c9180be54279-289567e73df81e0877c64f3ade66461f-removebg-preview.png"
+  },
+  {
+    "id": 4,
+    "name": "Hat",
+    "category": "Men",
+    "price": "₹389",
+    "image": "https://i.ibb.co/1TSk0tw/55b66cdf-71cb-4f24-95a2-1600b3b4b9071618219805135-1-removebg-preview.png"
+  },
+  {
+    "id": 5,
+    "name": "Shirt",
+    "category": "Men",
+    "price": "₹106",
+    "image": "https://i.ibb.co/Z6FfST5/70d49a26-d69a-461b-9189-c0018c2b1f85-1-4854edbb8ee1589a932290770cba427b-removebg-preview.png"
+  },
+  {
+    "id": 6,
+    "name": "Pants",
+    "category": "Men",
+    "price": "₹465",
+    "image": "https://i.ibb.co/52QsJqd/586ff079-00b2-4f9b-a6cf-ef604e8b07101618892166646-1-removebg-preview.png"
+  },
+  {
+    "id": 7,
+    "name": "Shoes",
+    "category": "Men",
+    "price": "₹415",
+    "image": "https://i.ibb.co/5TnfVJL/string-6-lotto-silver-navy-original-imaetwjgz4g33ua8-removebg-preview.png"
+  },
+  {
+    "id": 8,
+    "name": "Shorts",
+    "category": "Men",
+    "price": "₹106",
+    "image": "https://i.ibb.co/swczmgc/b4410b11-72da-479b-813b-74654ba3109e1580723345274-Nike-Men-Shorts-551580723342449-2-removebg-preview.png"
+  },
+
+  {
+    "id": 9,
+    "name": "Jacket",
+    "category": "Women",
+    "price": "₹489",
+    "image": "https://i.ibb.co/FmDjs04/d0f99f0177a9110cced9120f34604166-removebg-preview.png"
+  },
+
+  {
+    "id": 10,
+    "name": "Shirt",
+    "category": "Women",
+    "price": "₹106",
+    "image": "https://i.ibb.co/q7tcCnN/Autumn-Plus-Size-Casual-Women-Dress-Long-Sleeve-Blue-Denim-Dress-Summer-Shirt-Dress-Vestidos-Robe-re.png"
+  },
+  {
+    "id": 11,
+    "name": "Shoes",
+    "category": "Women",
+    "price": "₹236",
+    "image": "https://i.ibb.co/bJtLF9S/35bd8e1e-5087-4683-b616-2f7ba66180a6-1-a772f603d3df816d9bcdd60b91e74b44-removebg-preview.png"
+  },
+  {
+    "id": 12,
+    "name": "Shoes",
+    "category": "Women",
+    "price": "₹326",
+    "image": "https://i.ibb.co/QfPjpPn/8895b7c9-8da9-4433-90b7-472e659e9bc7-1-2d24c0d3379648d04b5dccdc5478eaf0-removebg-preview.png"
+  },
+  {
+    "id": 13,
+    "name": "Colourful Jacket",
+    "category": "Kids",
+    "price": "₹299",
+    "image": "https://i.ibb.co/kxBrNS2/505153-28426-41-removebg-preview.png"
+  },
+  {
+    "id": 14,
+    "name": "Lightning Shoes",
+    "category": "Kids",
+    "price": "₹234",
+    "image": "https://i.ibb.co/Bt4WchG/OIP-removebg-preview.png"
+  },
+
+  {
+    "id": 15,
+    "name": "SuperMan Shirt",
+    "category": "Kids",
+    "price": "₹654",
+    "image": "https://i.ibb.co/K00b62Y/2017-Summer-Baby-Kids-Boys-Superman-Short-Sleeve-T-shirt-Cotton-Tops-Clothes-2-7-Y-removebg-preview.png"
+  },
+  {
+    "id": 16,
+    "name": "Black Pant",
+    "category": "Kids",
+    "price": "₹676",
+    "image": "https://i.ibb.co/72JQHLJ/kids-bdu-pants-black-1-11547-1330995806-800-800-removebg-preview.png"
+  }
+]
